@@ -57,7 +57,6 @@ python -m main.py
 
 If you are getting confused between _Steganography_ & _Cryptography_. Then see this -
 
-#### Cryptography
 #### Steganography
 Steganography is “the act of writing in code or cipher.” Deep steganography often refers to hiding a message in plain sight, typically in a digital image.
 
