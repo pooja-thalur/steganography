@@ -15,20 +15,18 @@ The do all steganography application.:grin:<br>
 
 - Hide your private messages in images, audio & text files.
 - Forgot password in case you forget. <br>
-(Click on the _3 dots_ in main window to know more)
+(Click on small drop down in the main window to know more)
 - Access info about any button just by hovering on it.
 
 ## Other Notes
 
-All modules are standard modules of **batteries included** python. Then use the `main.py`.
+All modules are standard modules of python. Use the `main.py`.
 Rest the GUI is quite explanatory so hope you don't have any problem using this.
-In audio steganography only `.wav` files are supported presently. In images are formats are supported.
+In audio steganography only `.wav` files are supported presently. In images all formats are supported.
 
 ## Roadmap
 
 - Enabling encryption of data
-
-- Adding video support
 
 ## Installation Instruction
 
@@ -60,7 +58,7 @@ If you are getting confused between _Steganography_ & _Cryptography_. Then see t
 #### Steganography
 Steganography is “the act of writing in code or cipher.” Deep steganography often refers to hiding a message in plain sight, typically in a digital image.
 
->Knowledge fact: Jeff Bezos's mobile was hacked by hiding malicious code in a media
+>Knowledge fact: Jeff Bezos's mobile was hacked by hiding malicious code in a media file which on getting downloaded sent the host device's control to the hacker.
 >Fun fact: There's even rumor that Leonardo Da Vinci used steganography to embed a hidden message into the “Last Supper” art piece. During World War II, photosensitive glass was used to exchange hidden images and words between allied armies.
->file which on getting downloaded sent the host device's control to the hacker.
+
 
